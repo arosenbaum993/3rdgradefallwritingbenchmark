@@ -7,7 +7,7 @@
 1. On GitHub, open **Settings**, then **Pages**.
 2. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
 3. Pick the branch (`main` after this work is merged), folder **/ (root)**, and choose **Save**.
-4. Wait about a minute, then open `https://arosenbaum993.github.io/3rdgradefallwritingbenachmark/`.
+4. Wait about a minute, then open `https://arosenbaum993.github.io/3rdgradefallwritingbenchmark/`.
 5. Post that link in Google Classroom or on the class site. The file is named `index.html` so the link works without a file name on the end.
 
 The page has no outside dependencies, so it also works if it is downloaded and opened from a Chromebook's Files app.
